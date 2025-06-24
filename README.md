@@ -4,6 +4,9 @@
 🚀 Project Overview: 
 This project was completed as part of a Data Analyst Internship Task of "ELEVATE LABS" . The goal was to clean and preprocess a raw dataset to make it ready for analysis or visualization using Python.
 ---
+## 📸 Cleaned Data Preview
+
+![Cleaned Data Preview](Screenshot.png)
 
 ````
 ## 📁 Dataset Used
@@ -37,14 +40,6 @@ This project was completed as part of a Data Analyst Internship Task of "ELEVATE
 | 8️⃣ | Sorted dataset by `annual_income_(k$)` (optional) |
 | 9️⃣ | Created `age_group` column using bins (optional) |
 | 🔟 | Saved the cleaned dataset to `Mall_Customers_Cleaned.csv` |
-
----
-
-## 📸 Cleaned Data Preview
-
-![Cleaned Data Preview](Screenshot%20%28382%29.png)
-
-
 
 ---
 
