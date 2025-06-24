@@ -61,7 +61,7 @@ customerid,gender,age,age_group,annual_income_(k$),spending_score_(1-100)
 * `EL_Task1.ipynb` — 💻 Jupyter notebook with all code
 * `Mall_Customers.csv` — 📦 Raw dataset
 * `Mall_Customers_Cleaned.csv` — ✅ Final cleaned file
-* `screenshot (382).png` — 🖼️ Data preview image
+* `screenshot.png` — 🖼️ Data preview image
 * `README.md` — 📝 This file
 
 ---
