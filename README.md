@@ -1,13 +1,9 @@
-Here is your complete `README.md` file, including your final dataset info, Kaggle source, screenshot support, and beginner-friendly steps — perfect for GitHub:
-
+📁 Task 1: Data Cleaning and Preprocessing
+🚀 Project Overview
+This project was completed as part of a Data Analyst Internship Task of "ELEVATE LABS" . The goal was to clean and preprocess a raw dataset to make it ready for analysis or visualization using Python.
 ---
 
-````markdown
-# 🧼 EL_Task1: Mall Customer Data Cleaning
-
-## 📊 Project Overview
-
-This is my first real-world data cleaning project as a **data analyst intern (fresher)**. I worked with a customer segmentation dataset from Kaggle and cleaned it using Python and Pandas. The goal was to make the dataset ready for future analysis and visualization.
+````
 
 ---
 
@@ -24,15 +20,14 @@ This is my first real-world data cleaning project as a **data analyst intern (fr
 
 - 🐍 Python 3 (Jupyter Notebook)
 - 📚 Pandas
-- 🖼️ Optional: Matplotlib for visualization
 - 📓 Notebook: `EL_Task1.ipynb`
 
 ---
 
 ## ✅ Cleaning Steps Performed
 
-| Step | Action |
-|------|--------|
+| Step |                       Action                              |
+|------|-----------------------------------------------------------|
 | 1️⃣ | Loaded the raw dataset using Pandas |
 | 2️⃣ | Checked and confirmed there were no missing values |
 | 3️⃣ | Removed duplicate rows |
@@ -50,9 +45,8 @@ This is my first real-world data cleaning project as a **data analyst intern (fr
 
 Here’s a quick look at the cleaned dataset:
 
-![Cleaned Data Preview](screenshot.png)
+![Cleaned Data Preview](screenshot (382).png)
 
-> Make sure you upload `screenshot.png` to the repo for this image to show.
 
 ---
 
@@ -74,7 +68,7 @@ customerid,gender,age,age_group,annual_income_(k$),spending_score_(1-100)
 * `EL_Task1.ipynb` — 💻 Jupyter notebook with all code
 * `Mall_Customers.csv` — 📦 Raw dataset
 * `Mall_Customers_Cleaned.csv` — ✅ Final cleaned file
-* `screenshot.png` — 🖼️ Data preview image
+* `screenshot (382).png` — 🖼️ Data preview image
 * `README.md` — 📝 This file
 
 ---
@@ -88,15 +82,10 @@ customerid,gender,age,age_group,annual_income_(k$),spending_score_(1-100)
 
 ---
 
-## 🔮 Next Steps
+## 🔮 For any quary
 
-I’ll use this cleaned dataset for **visualization and storytelling in Task 2**, using Tableau or Power BI.
-
----
-
-```
+contact: mr.konar.official@gmail.com
 
 ---
 
-Let me know once you upload your screenshot (`screenshot.png`) or want me to rename/add anything before you push it to GitHub!
 ```
