@@ -1,0 +1,201 @@
+customerid,gender,age,annual_income_(k$),spending_score_(1-100),age_group
+1,male,19,15,39,Young Adult
+2,male,21,15,81,Young Adult
+3,female,20,16,6,Young Adult
+4,female,23,16,77,Young Adult
+5,female,31,17,40,Young Adult
+6,female,22,17,76,Young Adult
+7,female,35,18,6,Young Adult
+8,female,23,18,94,Young Adult
+9,male,64,19,3,Senior
+10,female,30,19,72,Young Adult
+11,male,67,19,14,Senior
+12,female,35,19,99,Young Adult
+13,female,58,20,15,Senior
+14,female,24,20,77,Young Adult
+15,male,37,20,13,Adult
+16,male,22,20,79,Young Adult
+17,female,35,21,35,Young Adult
+18,male,20,21,66,Young Adult
+19,male,52,23,29,Senior
+20,female,35,23,98,Young Adult
+21,male,35,24,35,Young Adult
+22,male,25,24,73,Young Adult
+23,female,46,25,5,Adult
+24,male,31,25,73,Young Adult
+25,female,54,28,14,Senior
+26,male,29,28,82,Young Adult
+27,female,45,28,32,Adult
+28,male,35,28,61,Young Adult
+29,female,40,29,31,Adult
+30,female,23,29,87,Young Adult
+31,male,60,30,4,Senior
+32,female,21,30,73,Young Adult
+33,male,53,33,4,Senior
+34,male,18,33,92,Teen
+35,female,49,33,14,Adult
+36,female,21,33,81,Young Adult
+37,female,42,34,17,Adult
+38,female,30,34,73,Young Adult
+39,female,36,37,26,Adult
+40,female,20,37,75,Young Adult
+41,female,65,38,35,Senior
+42,male,24,38,92,Young Adult
+43,male,48,39,36,Adult
+44,female,31,39,61,Young Adult
+45,female,49,39,28,Adult
+46,female,24,39,65,Young Adult
+47,female,50,40,55,Adult
+48,female,27,40,47,Young Adult
+49,female,29,40,42,Young Adult
+50,female,31,40,42,Young Adult
+51,female,49,42,52,Adult
+52,male,33,42,60,Young Adult
+53,female,31,43,54,Young Adult
+54,male,59,43,60,Senior
+55,female,50,43,45,Adult
+56,male,47,43,41,Adult
+57,female,51,44,50,Senior
+58,male,69,44,46,Senior
+59,female,27,46,51,Young Adult
+60,male,53,46,46,Senior
+61,male,70,46,56,Senior
+62,male,19,46,55,Young Adult
+63,female,67,47,52,Senior
+64,female,54,47,59,Senior
+65,male,63,48,51,Senior
+66,male,18,48,59,Teen
+67,female,43,48,50,Adult
+68,female,68,48,48,Senior
+69,male,19,48,59,Young Adult
+70,female,32,48,47,Young Adult
+71,male,70,49,55,Senior
+72,female,47,49,42,Adult
+73,female,60,50,49,Senior
+74,female,60,50,56,Senior
+75,male,59,54,47,Senior
+76,male,26,54,54,Young Adult
+77,female,45,54,53,Adult
+78,male,40,54,48,Adult
+79,female,23,54,52,Young Adult
+80,female,49,54,42,Adult
+81,male,57,54,51,Senior
+82,male,38,54,55,Adult
+83,male,67,54,41,Senior
+84,female,46,54,44,Adult
+85,female,21,54,57,Young Adult
+86,male,48,54,46,Adult
+87,female,55,57,58,Senior
+88,female,22,57,55,Young Adult
+89,female,34,58,60,Young Adult
+90,female,50,58,46,Adult
+91,female,68,59,55,Senior
+92,male,18,59,41,Teen
+93,male,48,60,49,Adult
+94,female,40,60,40,Adult
+95,female,32,60,42,Young Adult
+96,male,24,60,52,Young Adult
+97,female,47,60,47,Adult
+98,female,27,60,50,Young Adult
+99,male,48,61,42,Adult
+100,male,20,61,49,Young Adult
+101,female,23,62,41,Young Adult
+102,female,49,62,48,Adult
+103,male,67,62,59,Senior
+104,male,26,62,55,Young Adult
+105,male,49,62,56,Adult
+106,female,21,62,42,Young Adult
+107,female,66,63,50,Senior
+108,male,54,63,46,Senior
+109,male,68,63,43,Senior
+110,male,66,63,48,Senior
+111,male,65,63,52,Senior
+112,female,19,63,54,Young Adult
+113,female,38,64,42,Adult
+114,male,19,64,46,Young Adult
+115,female,18,65,48,Teen
+116,female,19,65,50,Young Adult
+117,female,63,65,43,Senior
+118,female,49,65,59,Adult
+119,female,51,67,43,Senior
+120,female,50,67,57,Adult
+121,male,27,67,56,Young Adult
+122,female,38,67,40,Adult
+123,female,40,69,58,Adult
+124,male,39,69,91,Adult
+125,female,23,70,29,Young Adult
+126,female,31,70,77,Young Adult
+127,male,43,71,35,Adult
+128,male,40,71,95,Adult
+129,male,59,71,11,Senior
+130,male,38,71,75,Adult
+131,male,47,71,9,Adult
+132,male,39,71,75,Adult
+133,female,25,72,34,Young Adult
+134,female,31,72,71,Young Adult
+135,male,20,73,5,Young Adult
+136,female,29,73,88,Young Adult
+137,female,44,73,7,Adult
+138,male,32,73,73,Young Adult
+139,male,19,74,10,Young Adult
+140,female,35,74,72,Young Adult
+141,female,57,75,5,Senior
+142,male,32,75,93,Young Adult
+143,female,28,76,40,Young Adult
+144,female,32,76,87,Young Adult
+145,male,25,77,12,Young Adult
+146,male,28,77,97,Young Adult
+147,male,48,77,36,Adult
+148,female,32,77,74,Young Adult
+149,female,34,78,22,Young Adult
+150,male,34,78,90,Young Adult
+151,male,43,78,17,Adult
+152,male,39,78,88,Adult
+153,female,44,78,20,Adult
+154,female,38,78,76,Adult
+155,female,47,78,16,Adult
+156,female,27,78,89,Young Adult
+157,male,37,78,1,Adult
+158,female,30,78,78,Young Adult
+159,male,34,78,1,Young Adult
+160,female,30,78,73,Young Adult
+161,female,56,79,35,Senior
+162,female,29,79,83,Young Adult
+163,male,19,81,5,Young Adult
+164,female,31,81,93,Young Adult
+165,male,50,85,26,Adult
+166,female,36,85,75,Adult
+167,male,42,86,20,Adult
+168,female,33,86,95,Young Adult
+169,female,36,87,27,Adult
+170,male,32,87,63,Young Adult
+171,male,40,87,13,Adult
+172,male,28,87,75,Young Adult
+173,male,36,87,10,Adult
+174,male,36,87,92,Adult
+175,female,52,88,13,Senior
+176,female,30,88,86,Young Adult
+177,male,58,88,15,Senior
+178,male,27,88,69,Young Adult
+179,male,59,93,14,Senior
+180,male,35,93,90,Young Adult
+181,female,37,97,32,Adult
+182,female,32,97,86,Young Adult
+183,male,46,98,15,Adult
+184,female,29,98,88,Young Adult
+185,female,41,99,39,Adult
+186,male,30,99,97,Young Adult
+187,female,54,101,24,Senior
+188,male,28,101,68,Young Adult
+189,female,41,103,17,Adult
+190,female,36,103,85,Adult
+191,female,34,103,23,Young Adult
+192,female,32,103,69,Young Adult
+193,male,33,113,8,Young Adult
+194,female,38,113,91,Adult
+195,female,47,120,16,Adult
+196,female,35,120,79,Young Adult
+197,female,45,126,28,Adult
+198,male,32,126,74,Young Adult
+199,male,32,137,18,Young Adult
+200,male,30,137,83,Young Adult
