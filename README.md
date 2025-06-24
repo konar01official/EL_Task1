@@ -40,11 +40,10 @@ This project was completed as part of a Data Analyst Internship Task of "ELEVATE
 
 ---
 
-## 📸 Cleaned Data Preview (Screenshot)
+## 📸 Cleaned Data Preview
 
-Here’s a quick look at the cleaned dataset:
+![Cleaned Data Preview](Screenshot%20%28382%29.png)
 
-![Cleaned Data Preview](screenshot (382).png)
 
 
 ---
