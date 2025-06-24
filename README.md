@@ -1,5 +1,7 @@
 📁 Task 1: Data Cleaning and Preprocessing
-🚀 Project Overview
+---
+
+🚀 Project Overview: 
 This project was completed as part of a Data Analyst Internship Task of "ELEVATE LABS" . The goal was to clean and preprocess a raw dataset to make it ready for analysis or visualization using Python.
 ---
 
