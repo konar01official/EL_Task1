@@ -6,9 +6,6 @@ This project was completed as part of a Data Analyst Internship Task of "ELEVATE
 ---
 
 ````
-
----
-
 ## 📁 Dataset Used
 
 - 📦 **Name**: Mall Customer Segmentation Data  
